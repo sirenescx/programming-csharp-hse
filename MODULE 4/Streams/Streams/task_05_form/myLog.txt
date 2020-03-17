@@ -1,0 +1,39 @@
+Session started: 10.04.2019 16:44:22
+Mouse clicked at 10.04.2019 16:44:24
+Mouse clicked at 10.04.2019 16:44:27
+Session started: 10.04.2019 16:45:13
+Mouse clicked at 10.04.2019 16:45:14
+Mouse clicked at 10.04.2019 16:45:17
+Session started: 10.04.2019 16:48:18
+Mouse clicked at 10.04.2019 16:48:19
+Mouse clicked at 10.04.2019 16:48:21
+Session closed: 10.04.2019 16:48:23
+Session started: 10.04.2019 16:51:16
+Button1 clicked at 10.04.2019 16:51:17
+Button2 clicked at 10.04.2019 16:51:17
+Button1 clicked at 10.04.2019 16:51:18
+Button2 clicked at 10.04.2019 16:51:18
+Button1 clicked at 10.04.2019 16:51:19
+Button2 clicked at 10.04.2019 16:51:19
+Button1 clicked at 10.04.2019 16:51:19
+Button2 clicked at 10.04.2019 16:51:20
+Button1 clicked at 10.04.2019 16:51:20
+Button2 clicked at 10.04.2019 16:51:20
+Session closed: 10.04.2019 16:51:21
+Session closed: 10.04.2019 17:13:41
+Session started: 10.04.2019 17:13:58
+Button2 clicked at 10.04.2019 17:14:00
+Button1 clicked at 10.04.2019 17:14:01
+Session closed: 10.04.2019 17:17:55
+Session started: 10.04.2019 17:18:00
+Mouse clicked at Form1 at 10.04.2019 17:18:03
+Session closed: 10.04.2019 17:18:07
+Session started: 10.04.2019 17:19:48
+Mouse clicked at Form1 at 10.04.2019 17:19:49
+Mouse clicked at Form2 at 10.04.2019 17:19:51
+Mouse clicked at Form2 at 10.04.2019 17:19:52
+Mouse clicked at Form2 at 10.04.2019 17:19:52
+Mouse clicked at Form2 at 10.04.2019 17:19:52
+Mouse clicked at Form1 at 10.04.2019 17:19:54
+Mouse clicked at Form2 at 10.04.2019 17:19:56
+Session closed: 10.04.2019 17:19:58

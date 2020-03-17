@@ -1,0 +1,10 @@
+0,168    0,872    DarkRed
+0,045    0,504    Lime
+0,490    0,500    Black
+0,963    0,831    BlueViolet
+0,522    0,840    Black
+0,631    0,987    Green
+0,964    0,650    Green
+0,761    0,621    Brown
+0,364    0,540    CadetBlue
+0,824    0,009    DarkOrange
